@@ -7,7 +7,7 @@ public class IfStatementRunner {
 	}
 
 	private static void puzzle1() {
-		int k = 15;
+		int k = 20;
 		if (k > 20) {
 			System.out.println(1);
 		} else if (k > 10) {
