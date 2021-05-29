@@ -3,7 +3,7 @@ package com.in28minutes.ifstatement.examples;
 import java.util.Scanner;
 
 public class MenuRunner {
-	public static void main(String[] args) {
+	public static void main(String[]git revert HEAD --no-edit args) {
 		// Type obj = new Type(argument);
 		//Added something
 		Scanner scanner = new Scanner(System.in);
