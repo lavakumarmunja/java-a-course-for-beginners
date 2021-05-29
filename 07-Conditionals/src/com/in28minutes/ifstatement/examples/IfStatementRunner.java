@@ -8,7 +8,8 @@ public class IfStatementRunner {
 
 	private static void puzzle1() {
 		//my branch
-		int k = 20;
+		int k = 33:
+		;
 		if (k > 20) {
 			System.out.println(1);
 		} else if (k > 10) {
