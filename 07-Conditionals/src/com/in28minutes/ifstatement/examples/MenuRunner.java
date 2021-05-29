@@ -6,8 +6,7 @@ public class MenuRunner {
 	public static void main(String[] args) {
 		// Type obj = new Type(argument);
 		//Added something
-		//adding something in 2 files
-		Scanner scanner = new Scanner(System.in)clea;
+		Scanner scanner = new Scanner(System.in);
 		System.out.print("Enter Number1: ");
 		int number1 = scanner.nextInt();
 
